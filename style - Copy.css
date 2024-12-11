@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+}
+
+.wrappet {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr);
+}
+
+img {
+    width: 100px;
+    border-radius: 20px;
+}
+
+.box {
+    padding: 10px;
+}
